@@ -1,0 +1,6 @@
+name: aws-batch-pulumi-stack-test
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: A minimal Python Pulumi program
